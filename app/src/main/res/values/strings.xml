@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="github_username">GitHub username</string>
+    <string name="buscar">Buscar</string>
+</resources>
